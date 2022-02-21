@@ -1523,7 +1523,7 @@
                                 <div class="banner px-lg-8 px-3 py-4 py-xl-0 d-flex h-100 align-items-center justify-content-center">
                                     <div class="banner__body">
                                         <div class="banner__image pb-1 mb-5">
-                                            <img class="img-fluid" src="https://placehold.it/350x282" alt="image-description">
+                                            <img class="img-fluid" src="/assets/img/Paperback_2.png" alt="image-description">
                                         </div>
                                         <h3 class="banner_text m-0">
                                             <span class="d-block mb-1 font-size-10 font-weight-regular">Get Extra</span>
