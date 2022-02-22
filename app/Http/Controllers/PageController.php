@@ -25,4 +25,9 @@ class PageController extends Controller
     {
         return view('pages.faq');
     }
+
+    public function categories()
+    {
+        return view('pages.categories');
+    }
 }

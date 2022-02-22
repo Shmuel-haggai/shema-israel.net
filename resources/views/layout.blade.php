@@ -643,59 +643,59 @@
 
                                                             <ul class="">
                                                                 <li>
-                                                                    <a href="../home/index.html">Home v1</a>
+                                                                    <a href="{{ route('home') }}">Home v1</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v2.html">Home v2</a>
+                                                                    <a href="{{ route('home') }}">Home v2</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v3.html">Home v2</a>
+                                                                    <a href="{{ route('home') }}">Home v2</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v3.html">Home v3</a>
+                                                                    <a href="{{ route('home') }}">Home v3</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v4.html">Home v4</a>
+                                                                    <a href="{{ route('home') }}">Home v4</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v5.html">Home v5</a>
+                                                                    <a href="{{ route('home') }}">Home v5</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v6.html">Home v6</a>
+                                                                    <a href="{{ route('home') }}">Home v6</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v7.html">Home v7</a>
+                                                                    <a href="{{ route('home') }}">Home v7</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v8.html">Home v8</a>
+                                                                    <a href="{{ route('home') }}">Home v8</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v9.html">Home v9</a>
+                                                                    <a href="{{ route('home') }}">Home v9</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v10.html">Home v10</a>
+                                                                    <a href="{{ route('home') }}">Home v10</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v11.html">Home v11</a>
+                                                                    <a href="{{ route('home') }}">Home v11</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v12.html">Home v12</a>
+                                                                    <a href="{{ route('home') }}">Home v12</a>
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="../home/home-v13.html">Home v13</a>
+                                                                    <a href="{{ route('home') }}">Home v13</a>
                                                                 </li>
                                                             </ul>
                                                         </div>

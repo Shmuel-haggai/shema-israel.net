@@ -2544,7 +2544,7 @@
         <div class="container">
             <header class="d-md-flex justify-content-between align-items-center mb-8">
                 <h2 class="font-size-7 mb-3 mb-md-0">Favorite Authors</h2>
-                <a href="../others/authors-list.html" class="h-primary d-block">View All <i class="glyph-icon flaticon-next"></i></a>
+                <a href="{{ route('author.list') }}" class="h-primary d-block">View All <i class="glyph-icon flaticon-next"></i></a>
             </header>
             <ul class="row rows-cols-5 no-gutters authors list-unstyled js-slick-carousel u-slick"
                 data-slides-show="5"
